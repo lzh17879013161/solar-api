@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/solarterms",
+      "destination": "/db.json"
+    },
+    {
+      "source": "/riddles",
+      "destination": "/db.json"
+    }
+  ]
+}
