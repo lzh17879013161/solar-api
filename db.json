@@ -1,0 +1,40 @@
+{
+  "solarterms": [
+    {"name":"立春","date":"2026-02-04","proverb":"立春一日，百草回芽","custom":"吃春饼、咬春","description":"立春是春季的开始，万物复苏，气温逐渐升高","climate":"气温逐渐回暖，降水增多"},
+    {"name":"雨水","date":"2026-02-18","proverb":"雨水节，雨水到，润物细无声","custom":"祭祀祖先、祈求丰收","description":"雨水节气表示降雨开始，雨量渐增，气温回升","climate":"气温继续回升，降水增多"},
+    {"name":"惊蛰","date":"2026-03-06","proverb":"惊蛰雷鸣，万物生长","custom":"吃梨、驱虫","description":"惊蛰是春季的重要节气，气温显著升高，春雷开始响起","climate":"气温显著升高，春雷开始出现"},
+    {"name":"春分","date":"2026-03-21","proverb":"春分秋分，昼夜平分","custom":"竖蛋、吃春菜","description":"春分是春季的中点，昼夜平分，气温适中","climate":"昼夜平分，气温适中"},
+    {"name":"清明","date":"2026-04-05","proverb":"清明时节雨纷纷，路上行人欲断魂","custom":"扫墓、踏青","description":"清明是春季的重要节气，天气晴朗，适合踏青扫墓","climate":"天气晴朗，适合户外活动"},
+    {"name":"谷雨","date":"2026-04-20","proverb":"谷雨时节，种瓜点豆","custom":"祭海、吃香椿","description":"谷雨是春季的最后一个节气，雨水增多，适合播种","climate":"雨水增多，气温稳定"},
+    {"name":"立夏","date":"2026-05-05","proverb":"立夏到，农事忙","custom":"吃立夏蛋、秤人","description":"立夏标志夏季开始，万物繁茂生长","climate":"气温快速升高"},
+    {"name":"小满","date":"2026-05-21","proverb":"小满小满，麦粒渐满","custom":"祭蚕、吃苦菜","description":"小满预示夏收作物籽粒开始饱满","climate":"降水增多，闷热开始"},
+    {"name":"芒种","date":"2026-06-06","proverb":"芒种忙，麦上场","custom":"送花神、煮梅","description":"芒种是农忙时节，夏收夏种同时进行","climate":"高温多雨"},
+    {"name":"夏至","date":"2026-06-21","proverb":"夏至到，暑气到","custom":"吃面、祭神","description":"夏至白昼最长，阳气最盛","climate":"全年最热时段开启"},
+    {"name":"小暑","date":"2026-07-07","proverb":"小暑不算热，大暑三伏天","custom":"晒伏、吃藕","description":"小暑进入初伏，天气开始炎热","climate":"持续高温"},
+    {"name":"大暑","date":"2026-07-22","proverb":"大暑热不透，大热在秋后","custom":"喝暑羊、吃仙草","description":"大暑是一年最热节气，雨热同期","climate":"高温闷热多雨"},
+    {"name":"立秋","date":"2026-08-07","proverb":"立秋之日凉风至","custom":"贴秋膘、啃秋瓜","description":"立秋标志秋季开始，暑气渐消","climate":"早晚转凉，白天仍热"},
+    {"name":"处暑","date":"2026-08-23","proverb":"处暑出暑，秋老虎来","custom":"放河灯、吃鸭子","description":"处暑暑气结束，气温明显下降","climate":"气温回落，秋高气爽"},
+    {"name":"白露","date":"2026-09-08","proverb":"白露秋分夜，一夜凉一夜","custom":"饮白露茶、吃龙眼","description":"白露昼夜温差变大，清晨有白露","climate":"干燥凉爽"},
+    {"name":"秋分","date":"2026-09-23","proverb":"秋分无生田，不熟也得收","custom":"祭月、吃秋菜","description":"秋分昼夜平分，正式入秋","climate":"气温持续下降"},
+    {"name":"寒露","date":"2026-10-08","proverb":"寒露一到百草枯","custom":"登高、赏菊","description":"寒露气温更低，露水带寒意","climate":"寒冷干燥"},
+    {"name":"霜降","date":"2026-10-23","proverb":"霜降杀百草","custom":"赏菊、吃柿子","description":"霜降开始结霜，冬季即将到来","climate":"气温骤降"},
+    {"name":"立冬","date":"2026-11-07","proverb":"立冬补冬，补嘴空","custom":"吃饺子、进补","description":"立冬标志冬季开始","climate":"寒冷干燥"},
+    {"name":"小雪","date":"2026-11-22","proverb":"小雪雪满天，来年必丰年","custom":"腌菜、晒腊肉","description":"小雪开始降雪，天气寒冷","climate":"气温持续走低"},
+    {"name":"大雪","date":"2026-12-07","proverb":"大雪兆丰年","custom":"赏雪、进补","description":"大雪降雪增多，地面积雪","climate":"严寒来临"},
+    {"name":"冬至","date":"2026-12-22","proverb":"冬至大如年","custom":"吃饺子、汤圆","description":"冬至白昼最短，阳气开始回升","climate":"全年最冷"},
+    {"name":"小寒","date":"2026-01-05","proverb":"小寒大寒，冻成一团","custom":"喝羊肉汤、吃饺子","description":"小寒是一年最冷的时候之一，气温极低，需注意保暖","climate":"气温极低，需注意保暖"},
+    {"name":"大寒","date":"2026-01-20","proverb":"小寒大寒，冻成一团","custom":"喝羊肉汤、吃饺子","description":"大寒是一年中最冷的时候，气温极低，需注意保暖","climate":"气温达到最低点，降雪增多"}
+  ],
+  "riddles": [
+    {"question":"哪个节气是二十四节气之首？","options":["A.立春","B.雨水","C.惊蛰","D.春分"],"answer":"A"},
+    {"question":"春分节气有什么特点？","options":["A.昼夜平分","B.昼长夜短","C.昼短夜长","D.全年最热"],"answer":"A"},
+    {"question":"清明节气在哪个季节？","options":["A.春季","B.夏季","C.秋季","D.冬季"],"answer":"A"},
+    {"question":"哪个节气代表夏季正式开始？","options":["A.立夏","B.小满","C.芒种","D.夏至"],"answer":"A"},
+    {"question":"一年中白昼最长的节气是？","options":["A.夏至","B.大暑","C.小暑","D.立秋"],"answer":"A"},
+    {"question":"哪个节气标志秋天开始？","options":["A.立秋","B.处暑","C.白露","D.秋分"],"answer":"A"},
+    {"question":"秋分节气的特点是？","options":["A.昼夜平分","B.昼长夜短","C.昼短夜长","D.天气最热"],"answer":"A"},
+    {"question":"哪个节气代表冬季开始？","options":["A.立冬","B.小雪","C.大雪","D.冬至"],"answer":"A"},
+    {"question":"冬至的特点是？","options":["A.白昼最短","B.白昼最长","C.昼夜平分","D.降雨最多"],"answer":"A"},
+    {"question":"一年中最冷的节气是？","options":["A.大寒","B.小寒","C.冬至","D.大雪"],"answer":"A"}
+  ]
+}
